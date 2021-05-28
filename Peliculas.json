@@ -1,0 +1,1 @@
+[{"Nombre":"nombre1","Genero":"genero1","Estudio":"estudio1","Actores":[{"Nombre":"actor1"},{"Nombre":"actor2"},{"Nombre":"actor3"}]},{"Nombre":"nombre2","Genero":"genero2","Estudio":"estudio2","Actores":[{"Nombre":"actor2"},{"Nombre":"nombreActor2"}]},{"Nombre":"pelicula4","Genero":"genero1","Estudio":"estudio4","Actores":[{"Nombre":"actor4"}]}]
